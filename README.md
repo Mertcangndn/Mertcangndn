@@ -37,4 +37,11 @@ Kısa, pratik ve öğrenmeye açık bir geliştiriciyim. Küçük, tamamlanabili
 (Aşağıdaki img linklerini kendi kullanıcı adına göre güncelle)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertcangndn&layout=compact)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mertcangndn&theme=github)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=mertcangndn&theme=onestar&column=4)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=mertcangndn&show_icons=true)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mertcangndn&color=blue)
