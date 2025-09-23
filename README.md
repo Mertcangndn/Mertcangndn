@@ -19,9 +19,8 @@ Kısa, pratik ve öğrenmeye açık bir geliştiriciyim. Küçük, tamamlanabili
 ---
 
 ## 📫 İletişim
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kullaniciadın/)
-: `https://www.linkedin.com/in/mertcan-gundogan`  
-- Email: `mertcangndn@gmail.com`
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertcan-gundogan)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mertcangndn@gmail.com)
 
 ---
 
