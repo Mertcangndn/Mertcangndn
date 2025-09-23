@@ -1,35 +1,36 @@
-<h1 aling="center"> 👋 Merhaba, ben Mertcan Gündoğan </h1>
+<h1 align="center"> 👋 Hi, I'm Mertcan! </h1>
+<p align="center">🎓 I am a 2nd-year Computer Engineering student at Istanbul Medeniyet University.<br>
+📚 I am interested in artificial intelligence, cybersecurity, and electronic circuits.<br>
+🎯 I aim to improve myself by developing open-source projects.<br>
+🤖 I use AI not to produce for me, but to teach me how to produce.</p>
 
-🎓 Bilgisayar Mühendisliği öğrencisi — İstanbul Medeniyet Üniversitesi  
-💻 C • Python • Java (başlangıç) · 🔐 Siber Güvenlik · ⚙️ IoT (ESP32)  
-🛠️ Kendi projelerimi öğretici adımlarla geliştiriyorum — hazır kod tercih etmiyorum
+## ⚙️ Tech Stack
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/%E2%98%95%20Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white)
 
----
-
-## 🚀 Hakkımda
-Kısa, pratik ve öğrenmeye açık bir geliştiriciyim. Küçük, tamamlanabilir projeler ve donanıma yakın IoT denemeleri yapmayı seviyorum.
-
----
-
-## 🔧 Beceriler
-- **Diller:** C, Python, Java
-- **Ağ & Güvenlik:** Temel ağ bilgisi, siber güvenlik girişleri, CCNA1 Sertifikası
-- **Araçlar:** Git, VS Code, Android Studio, Intellij IDEA
+### 🛠️ Tools & Technologies
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📫 İletişim
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertcan-gundogan)
+## 🏆 GitHub Trophies & Stats
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mertcangndn&theme=radical&column=9&margin-w=15&margin-h=15" alt="Trophy">
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcangndn&layout=compact&theme=dark" alt="Top Languages" width="448" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mertcangndn&show_icons=true&theme=dark" alt="GitHub Stats" width="500" />
+</p>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mertcangndn&theme=github-dark)
+
+## 📫 Contact
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertcan-gundogan/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mertcangndn@gmail.com)
+- ![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fmertcangndn%2F)
 
----
-
-## 📈 GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertcangndn&layout=compact)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mertcangndn&theme=github)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=mertcangndn&theme=onestar&column=4)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=mertcangndn&show_icons=true)
