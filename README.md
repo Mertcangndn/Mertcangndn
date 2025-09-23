@@ -18,23 +18,14 @@ Kısa, pratik ve öğrenmeye açık bir geliştiriciyim. Küçük, tamamlanabili
 
 ---
 
-## 🧩 Öne Çıkan Projeler
-- **IoT Ventilatör Kontrol** — ESP32 ile röle kontrolü, Android uygulama entegrasyonu.  
-  `[https://github.com/kullaniciadın/iot-ventilator](https://github.com/Mertcangndn/FanController)`
-- **Siber Güvenlik Notları** — öğrendiklerimin kısa notları ve araç kullanımı.  
-  `https://github.com/kullaniciadın/sec-notes`
-
----
-
 ## 📫 İletişim
-- LinkedIn: `https://www.linkedin.com/in/mertcan-gundogan`  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kullaniciadın/)
+: `https://www.linkedin.com/in/mertcan-gundogan`  
 - Email: `mertcangndn@gmail.com`
 
 ---
 
 ## 📈 GitHub
-> İstersen buraya GitHub stats ve en çok yıldızlanan projeler için badge ekleyebilirsin.  
-(Aşağıdaki img linklerini kendi kullanıcı adına göre güncelle)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertcangndn&layout=compact)
 
@@ -43,5 +34,3 @@ Kısa, pratik ve öğrenmeye açık bir geliştiriciyim. Küçük, tamamlanabili
 ![Trophy](https://github-profile-trophy.vercel.app/?username=mertcangndn&theme=onestar&column=4)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=mertcangndn&show_icons=true)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=mertcangndn&color=blue)
