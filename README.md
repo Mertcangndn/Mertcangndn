@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Mertcan Gündoğan
+<h1 aling="center"> 👋 Merhaba, ben Mertcan Gündoğan </h1>
 
 🎓 Bilgisayar Mühendisliği öğrencisi — İstanbul Medeniyet Üniversitesi  
 💻 C • Python • Java (başlangıç) · 🔐 Siber Güvenlik · ⚙️ IoT (ESP32)  
@@ -20,7 +20,7 @@ Kısa, pratik ve öğrenmeye açık bir geliştiriciyim. Küçük, tamamlanabili
 
 ## 🧩 Öne Çıkan Projeler
 - **IoT Ventilatör Kontrol** — ESP32 ile röle kontrolü, Android uygulama entegrasyonu.  
-  `https://github.com/kullaniciadın/iot-ventilator`
+  `[https://github.com/kullaniciadın/iot-ventilator](https://github.com/Mertcangndn/FanController)`
 - **Siber Güvenlik Notları** — öğrendiklerimin kısa notları ve araç kullanımı.  
   `https://github.com/kullaniciadın/sec-notes`
 
