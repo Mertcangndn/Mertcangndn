@@ -15,7 +15,7 @@
 
 ---
 
-## 🏆 GitHub Trophies & Stats
+## 🏆 GitHub Stats & Trophies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcangndn&layout=compact&theme=dark" alt="Top Languages" height="500" />
   <br>
