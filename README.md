@@ -18,7 +18,7 @@
 ## 🏆 GitHub Trophies & Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcangndn&layout=compact&theme=dark" alt="Top Languages" height="170" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=mertcangndn&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" height="170" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=mertcangndn&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=mertcangndn&show_icons=true&theme=dark" alt="GitHub Stats" height="170" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=mertcangndn&theme=dark&hide_border=false" alt="Streak" height="170" />
