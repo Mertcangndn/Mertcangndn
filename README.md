@@ -18,8 +18,8 @@
 ## 🏆 GitHub Trophies & Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcangndn&layout=compact&theme=dark" alt="Top Languages" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mertcangndn&show_icons=true&theme=dark" alt="GitHub Stats" width="400" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mertcangndn&theme=dark&hide_border=false" alt="Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mertcangndn&show_icons=true&theme=dark" alt="GitHub Stats" height="200" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mertcangndn&theme=dark&hide_border=false" alt="Streak" height="200" />
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
