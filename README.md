@@ -1,5 +1,6 @@
 <h1 align="center"> 👋 Hi, I'm Mertcan! </h1>
-<p align="center">🎓 I am a 2nd-year Computer Engineering student at Istanbul Medeniyet University.<br>
+<p align="center">
+🎓 I am a 2nd-year Computer Engineering student at Istanbul Medeniyet University.<br>
 🎯 I aim to improve myself by developing open-source projects.<br>
 🤖 I use AI not to produce for me, but to teach me how to produce.</p>
 
