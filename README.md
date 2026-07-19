@@ -14,8 +14,6 @@
 [![GitHub](https://img.shields.io/badge/github-%232A2827.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mertcangndn)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
 
----
-
 ## 🏆 Stats & Trophies
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mertcangndn?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode" height="248" />
