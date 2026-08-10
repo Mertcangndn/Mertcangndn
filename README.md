@@ -16,10 +16,10 @@
 
 ## 🏆 Stats & Trophies
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mertcangndn?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode" width="100%" />
+  <img src="https://leetcard.jacoblin.cool/mertcangndn?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode" width="100%" height="248" />
   <br><br>
-  <img src="https://github-stats-blond-gamma.vercel.app/api/top-langs/?username=mertcangndn&layout=compact&theme=dark&v=1&exclude_repo=github-stats" alt="Top Languages" width="49.5%" />
-  <img src="https://github-stats-blond-gamma.vercel.app/api?username=mertcangndn&show_icons=true&theme=dark&exclude_repo=github-stats" alt="GitHub Stats" width="49.5%" />
+  <img src="https://github-stats-blond-gamma.vercel.app/api/top-langs/?username=mertcangndn&layout=compact&theme=dark&v=1&exclude_repo=github-stats" alt="Top Languages" width="49.5%" height="165" />
+  <img src="https://github-stats-blond-gamma.vercel.app/api?username=mertcangndn&show_icons=true&theme=dark&exclude_repo=github-stats" alt="GitHub Stats" width="49.5%" height="165" />
 </p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mertcangndn&theme=github-dark)
