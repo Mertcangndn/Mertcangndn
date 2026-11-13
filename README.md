@@ -22,8 +22,6 @@
   <img src="https://github-stats-blond-gamma.vercel.app/api?username=mertcangndn&show_icons=true&theme=dark&exclude_repo=github-stats" alt="GitHub Stats" height="165" />
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mertcangndn&theme=github-dark)
-<br />
 <div align="center">
   <img src="https://raw.githubusercontent.com/mertcangndn/mertcangndn/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
